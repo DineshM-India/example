@@ -2,7 +2,7 @@ package com.ecs.collections;
 
 import java.util.*;
 
-public class Main {
+public class TaxCalculation {
 	public static void main(String[] args) 
     {   int n;
         double  sum = 0,dis,tax,cal,total;
